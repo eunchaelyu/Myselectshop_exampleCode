@@ -5,6 +5,7 @@
 
 -  Scheduler 구현
 -  회원기능 구현
+![img.png](img.png)
 -  회원별 상품 API 구현
 -  상품 페이징 및 정렬
 -  상품 폴더 설계
